@@ -1,4 +1,4 @@
-package Exercise.Fahrt;
+package Exercise.AK.Fahrt;
 
 public class Fahrt {
     public int km;

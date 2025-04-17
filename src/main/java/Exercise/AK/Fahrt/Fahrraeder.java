@@ -1,4 +1,4 @@
-package Exercise.Fahrt;
+/*package Exercise.AK.Fahrt;
 
 public class Fahrraeder implements Fahrzeug{
     @Override
@@ -6,4 +6,4 @@ public class Fahrraeder implements Fahrzeug{
 
 
     }
-}
+}*/

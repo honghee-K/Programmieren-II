@@ -1,4 +1,4 @@
-package Exercise.Fahrt;
+package Exercise.AK.Fahrt;
 
 import java.util.List;
 
