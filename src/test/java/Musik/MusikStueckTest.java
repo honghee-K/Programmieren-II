@@ -1,7 +1,7 @@
 package Musik;
 
-import Exercise.Musik.MusikStueck;
-import Exercise.Musik.MusikStueckSammlung;
+import Exercise.AK.Musik.MusikStueck;
+import Exercise.AK.Musik.MusikStueckSammlung;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

@@ -1,10 +1,11 @@
 package Exercise.AK.Fahrt;
 
+public class Motorroller extends Fahrzeug{
 
-public class Fahrraeder extends Fahrzeug{
     @Override
     public double berechneEntgelte(Fahrt f){
-        return 0.125 * f.min;
+        return 3.15 * f.km;
     }
+
 
 }

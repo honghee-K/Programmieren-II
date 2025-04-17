@@ -1,4 +1,4 @@
-package Exercise.Musik;
+package Exercise.AK.Musik;
 
 public class MusikStueck
 {
