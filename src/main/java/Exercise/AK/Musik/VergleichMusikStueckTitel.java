@@ -5,8 +5,8 @@
     public class VergleichMusikStueckTitel implements Comparator<MusikStueck> {
 
         @Override
-        public int compare(MusikStueck a, MusikStueck b){
-            return a.getTitel().compareTo(b.getTitel());
-        }
+            public int compare(MusikStueck a, MusikStueck b){
+                return a.getTitel().compareTo(b.getTitel());
+            }
 
     }
